@@ -1,0 +1,26 @@
+{
+  "name": "text-find",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "text",
+    "file",
+    "read",
+    "doc",
+    "docx",
+    "txt",
+    "json",
+    "file-reader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vienxamxi/Text-Find.git"
+  },
+  "homepage": "https://github.com/Vienxamxi/Text-Find#readme",
+  "author": "Progamingsang",
+  "license": "MIT",
+  "description": "This npm package supports finding text file paths."
+}
